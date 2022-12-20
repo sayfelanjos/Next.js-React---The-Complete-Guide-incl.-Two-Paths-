@@ -1,12 +1,19 @@
-import EventItem from "../EventItem";
-
+import EventItem from "./EventItem";
 
 const EventList = (props) => {
   const { items } = props;
 
   return (
     <ul>
-      {items.map(event => <li></li>)}
+      {items.map(event => (
+        <EventItem
+          key={event.id}
+          id={event.id}
+          title={event.title}
+          location={event.location}
+          data={event.date}
+          image={event.image}
+        />))}
     </ul>
   );
 };
