@@ -1,7 +1,11 @@
+import { getFeaturedEvents } from "../dummy-data";
+
 const HelloWorld = () => {
+  const featuredEvents = getFeaturedEvents();
+
   return (
     <div>
-      <h1>Hello World!!!</h1>
+      <ul></ul>
     </div>
   );
 };
