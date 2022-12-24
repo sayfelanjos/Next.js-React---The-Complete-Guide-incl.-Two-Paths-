@@ -1,7 +1,7 @@
 import { getFeaturedEvents } from "../dummy-data";
 import EventList from "../components/events/EventList";
 
-const HelloWorld = () => {
+const Events = () => {
   const featuredEvents = getFeaturedEvents();
 
   return (
@@ -11,4 +11,4 @@ const HelloWorld = () => {
   );
 };
 
-export default HelloWorld;
+export default Events;
