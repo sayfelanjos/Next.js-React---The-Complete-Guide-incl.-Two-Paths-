@@ -7,7 +7,6 @@
     <list default="true" id="4181a62c-9854-4ab0-92a2-e01e5eecb14a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/events/EventItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/events/EventItem.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/events/EventList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/events/EventList.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/saymon/Backup/Portifolio/Creating-a-Responsive-Web-Design-Advanced-Techniques",
+    "last_opened_file_path": "/home/saymon/Backup/Portifolio/Nextjs-Projects/Working-With-File-Based-Routing/components/icons",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -56,7 +55,12 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components/icons" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components/icons" />
+      <recent name="$PROJECT_DIR$/components" />
       <recent name="$PROJECT_DIR$/components/events" />
     </key>
   </component>
@@ -70,7 +74,7 @@
       <updated>1671558335267</updated>
       <workItem from="1671558338259" duration="2667000" />
       <workItem from="1671561484579" duration="1149000" />
-      <workItem from="1671848649660" duration="652000" />
+      <workItem from="1671848649660" duration="2706000" />
     </task>
     <servers />
   </component>
