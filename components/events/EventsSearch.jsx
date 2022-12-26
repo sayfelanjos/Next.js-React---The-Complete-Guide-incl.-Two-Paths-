@@ -42,7 +42,7 @@ const EventsSearch = (props) => {
           </select>
         </div>
       </div>
-      <Button oncl>Find Events</Button>
+      <Button link="/events">Find Events</Button>
     </form>
   );
 };
